@@ -1,0 +1,298 @@
+#conteneur-menu,
+body {
+  background-size: cover;
+}
+dd,
+dl {
+  width: 150px;
+  display: block;
+}
+#conteneur-menu,
+dd {
+  background-image: url(bois.jpg);
+  border-radius: 30px;
+}
+dd,
+dd ul,
+dd ul li a,
+dl,
+dl:hover dd,
+dt {
+  display: block;
+}
+#gatt,
+dd ul li a,
+dt {
+  color: #0ff;
+}
+#conteneur-menu,
+#gatt,
+dd,
+dd ul,
+dd ul li a:hover,
+dl {
+  border-radius: 30px;
+}
+#footer,
+#gatt,
+h1,
+h3 {
+  width: 100%;
+}
+#footer,
+dd {
+  height: auto;
+}
+#footer h3,
+dd ul li a,
+dl {
+  text-align: center;
+  height: 40px;
+}
+h1,
+h4 {
+  color: #000;
+}
+.produit,
+.produits,
+.produitss {
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+#buddy,
+#footer {
+  background-image: url(boiscroix.jpg);
+}
+h1,
+h2,
+h3 {
+  text-decoration: underline double;
+}
+body {
+  background-image: url(boispain.jpg);
+}
+h1,
+h3 {
+  text-align: center;
+}
+#conteneur-menu {
+  height: 60px;
+  width: 97%;
+  position: relative;
+  margin: 0;
+}
+#menu {
+  position: absolute;
+}
+dl {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  float: left;
+  justify-content: space-between;
+}
+#daniel,
+#gatt,
+#second {
+  background-size: cover;
+  justify-content: space-around;
+  display: flex;
+  margin: 20px;
+  background-image: url(boispain.jpg);
+}
+dt {
+  height: 5px;
+  text-align: center;
+  cursor: pointer;
+  border-right: 4px dotted #000;
+}
+dd {
+  text-align: center;
+  background-size: cover;
+}
+dd ul {
+  padding: 10%;
+  list-style: none;
+  width: 125px;
+}
+dl dd {
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+dd ul li a {
+  text-decoration: none;
+  margin-right: 10px;
+  font-family: verdana;
+}
+dd ul li a:hover {
+  background-image: url(boisclaire.jpg);
+  background-size: cover;
+}
+#gatt {
+  flex-wrap: wrap;
+}
+.produit {
+  text-align: center;
+  border: 2px solid #0ff;
+}
+.produit img,
+.produits img,
+.produitss img {
+  width: 100%;
+  height: auto;
+  border-radius: 30px;
+}
+.nom-produit {
+  font-size: 22px;
+  color: #ccc;
+  text-align: center;
+}
+.prix-produit {
+  font-size: 16px;
+  color: #0ff;
+  text-align: center;
+}
+#daniel,
+#second {
+  color: #0ff;
+  flex-wrap: wrap;
+  border-radius: 30px;
+}
+.produits {
+  border: 2px solid #0ff;
+  text-align: center;
+}
+#footer,
+#footer h3,
+#gattdaniel {
+  border-radius: 30px;
+  display: block;
+  background-size: cover;
+}
+.nom-produits {
+  text-align: center;
+  color: #ccc;
+  font-size: 22px;
+}
+.prix-produits {
+  text-align: center;
+  font-size: 16px;
+  color: #0ff;
+}
+#footer {
+  color: #0ff;
+  text-align: center;
+}
+#footer h3 {
+  background-image: url(boispain.jpg);
+  width: 200px;
+  color: #0ff;
+  margin: auto;
+  border-bottom: 2px solid #0ff;
+}
+h5 {
+  color: #c5c4ff;
+  text-align: right;
+}
+#buddy,
+.buddy1,
+.nom-produitss,
+.prix-produitss,
+.produitss,
+h2,
+h4,
+p {
+  text-align: center;
+}
+h4 {
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#gattdaniel {
+  background-image: url(boiss.jpg);
+  color: #0ff;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.produitss {
+  border: 2px solid #0ff;
+}
+.frere,
+h2,
+main,
+section {
+  width: 100%;
+}
+.nom-produitss {
+  color: #c226ad;
+  font-size: 22px;
+}
+.prix-produitss {
+  color: #0ff;
+  font-size: 16px;
+}
+.email-icon,
+.icon,
+.phone-icon {
+  font-size: 35px;
+  margin-right: 30px;
+}
+#buddy {
+  background-size: cover;
+  border-radius: 30px;
+  padding: auto;
+}
+#buddy ul li {
+  list-style: none;
+  height: 50px;
+  font-size: 30px;
+}
+.buddy1 {
+  color: red;
+}
+h2 {
+  text-align: left;
+}
+button {
+  background-color: #000;
+  color: #0ff;
+  border-radius: 10px;
+  float: top;
+}
+.frere {
+  position: fixed;
+  display: block;
+  background-image: url(boispain.jpg);
+  background-size: cover;
+  top: 0;
+  flex-wrap: wrap;
+  padding: 0;
+  z-index: 1000;
+}
+section {
+  margin: 175px 0 0;
+  height: 150px;
+}
+main {
+  margin: 15% 0 0;
+  top: 0;
+}
+.icon {
+  color: #25d366;
+}
+.email-icon {
+  color: #000;
+}
+.phone-icon {
+  color: #4caf50;
+}
+.pierre {
+  display: block;
+}  
+@media (min-width: 768px) {
+  .pierre {
+      display: none;
+  }
+}
